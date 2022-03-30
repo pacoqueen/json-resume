@@ -1,0 +1,1065 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Francisco José",
+      "surnames": "Rodríguez Bogado",
+      "title": "Expert FLOSS developer. Two decades of experience in GNU/Linux, GTK & Python.",
+      "description": "When I watched «War Games» on my childhood I changed karate for computers.\nLater, since I read «Being Digital» (N. Negroponte) circa 1999, I felt that technology can really change our lives in a more radical sense than any other previous discovery of the humankind.\nI'd like to be part of it. That's why I became a T-shaped developer.\nNowadays, with AI evolving so fast, philosophy, ethics and even political questions are emerging. \nThat's one more reason for what I am still a FLOSS enthusiastic after 20 years.",
+      "avatar": {
+        "alt": "Paco.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/cd2354b5-dd2d-4d01-aafe-48f885fe5752_paco.png"
+      },
+      "location": {
+        "notes": "Huelva, Andalusia, Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/pqinn"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/pacoqueen"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.qinn.es/"
+      },
+      {
+        "type": "other",
+        "URL": "https://gitlab.com/pacoqueen"
+      },
+      {
+        "type": "other",
+        "URL": "https://t.me/paco_queen"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Collaboration with EKCIT (European Knowledge Center for Information Technology)",
+        "fact": "TIC.Portal (resources about ERPs for companies) made a Fieldcase based on a year of my work migrating from Murano to SAP."
+      },
+      {
+        "topic": "Volunteer on Cibervoluntarios",
+        "fact": "I collaborate occasionally as volunteer with this non profit organization that work for generate transformation and social impact, as well as building and contributing to create a participatory and inclusive digital citizenship with more opportunities."
+      },
+      {
+        "topic": "Arcade-retro gaming connoisseur",
+        "fact": "I work with miArcade.com building old arcade replicas with emulators to play old games. Pure nostalgia."
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Cibervoluntarios",
+        "type": "other",
+        "URL": "https://www.cibervoluntarios.org/",
+        "authors": [
+          {
+            "name": "",
+            "surnames": "",
+            "title": "Author"
+          }
+        ],
+        "summary": "Non profit organisation for generate transformation and social impact, as well as building and\ncontributing to create a participatory and inclusive digital citizenship with more opportuninies."
+      },
+      {
+        "title": "Portfolio",
+        "type": "other",
+        "URL": "https://qinn.es",
+        "authors": [
+          {
+            "name": "Francisco",
+            "surnames": "José Rodríguez Bogado",
+            "title": "Author"
+          }
+        ],
+        "summary": "Full resume, portfolio and personal info. Made in Django."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Novaweb Área Virtual, S. L.",
+          "image": {
+            "alt": "1519898942092.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/6f54c15f-a530-482e-9332-89f542daa3d8_1519898942092.jpeg"
+          },
+          "URL": "https://www.linkedin.com/company/novaweb-area-virtual-s-l/about/"
+        },
+        "roles": [
+          {
+            "name": "Software Development Lead",
+            "startDate": "2008-11-01",
+            "finishDate": "2012-04-01",
+            "challenges": [
+              {
+                "description": "Analysis, planning, development, support and maintenance of custom (FLOSS)\nand third party software.\n\n- Software development, tester and support for GEA-21 corporate group.\n- Seville metro web development. [PHP]\n- ERP G-INN (own project) upgrades and long term support for Geotexan, S.A. [Python, GPLv3]\n- ERP development for Centro de Investigación de Carreteras de Andalucía (CICAN). [Python, GPLv3]\n- Management software development for Universal Pilates. [Python, GPLv3]\n- Microsoft SQL Server 2005 DBA and Microsoft Business Solutions-Navision support (IberBuilding)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Navision",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance Software Libre",
+          "image": {
+            "alt": "logo_qinn.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/b55e174a-6bcb-4d7c-b06d-bdf98be1c070_logo_qinn.png"
+          },
+          "URL": "https://sourceforge.net/u/pacoqueen/profile"
+        },
+        "roles": [
+          {
+            "name": "Programmer Analyst",
+            "startDate": "2000-07-01",
+            "finishDate": "2008-11-01",
+            "challenges": [
+              {
+                "description": "Several solutions for 18 success cases. Technologies: GESCO3, dBase IV, Delphi,\nInterbase (firebird), C++/C, MS-Access MDB, DAO (ADODB), Visual Basic, COBOL,\nPython, wxWidgets/GTK, ReportLab, PostgreSQL, Guadalinex GNU/Linux, MTA\npostfix, fetchmail, spamassassin, procmail, courier-imap, Apache, SAMBA/NIS NFS,\nDebian GNU/Linux, Ubuntu GNU/Linux."
+              }
+            ],
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "VBA",
+                "type": "technology"
+              },
+              {
+                "name": "Delphi",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Access",
+                "type": "technology"
+              },
+              {
+                "name": "Cobol",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Samba",
+                "type": "technology"
+              },
+              {
+                "name": "Debian",
+                "type": "technology"
+              },
+              {
+                "name": "Ubuntu",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Atlantic Copper",
+          "image": {
+            "alt": "logo-ac.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/849d70e5-e35c-434a-8ebe-dac057518bd3_logo-ac.jpg"
+          },
+          "URL": "https://www.atlantic-copper.es/"
+        },
+        "roles": [
+          {
+            "name": "Internship",
+            "startDate": "2004-06-01",
+            "finishDate": "2004-09-01",
+            "challenges": [
+              {
+                "description": "Software development for Security and Environment Department."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Access",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Geotexan, S.A.",
+          "image": {
+            "alt": "geotexan-logo-google-workspace320x132.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/9db0bcca-7673-4d8e-bbca-f493e612a181_geotexan-logo-google.png"
+          },
+          "URL": "https://geotexan.com/"
+        },
+        "roles": [
+          {
+            "name": "CIO & CTO",
+            "startDate": "2012-04-01",
+            "challenges": [
+              {
+                "description": "Custom ERP development, third party software implantation, hardware and\nsoftware support, MS-Windows and GNU/Linux system administration, voice and\ndata network design, implementation & support, RGPD, industrial computing and\nlab devices (Siemens, Instron, Textechno, Helfis, Lenzing), cybersecurity and\ndigital forensic analysis.\n\n- SAP migration director (Product Owner). [Seidor SAP, Boyum BEAS, Taiga, EKCIT/TIC.Portal, cloud DataRush]\n- Sage Murano support and development of integration software. [Python, SQL]\n- Development of geotextile web recomendator. [Brython, Python, JavaScript, HTML5, CSS3]\n- MS-Windows 2008R2-2019 and GNU/Linux Debian system administrator. [PowerShell, Bash, Netdata, OCS, GLPI, Shorewall, Docker, Borg]\n- DBMS PostgreSQL, MariaDB/MySQL y MS-SQLServer 2008R2 DBA."
+              }
+            ],
+            "competences": [
+              {
+                "name": "SAP HANA",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "PowerShell",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Geotex-INN",
+          "description": "ERP for a geotextile factory. Heavily designed and developed from scratch to fulfill Geotexan needs.",
+          "URL": "https://github.com/pacoqueen/ginn",
+          "image": {
+            "alt": "logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/9d8d6b87-2f48-4ccb-afb7-67bd51d23ff4_logo.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2004-08-01",
+            "finishDate": "2021-12-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Avid Media Composer",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Calculinn",
+          "description": "A web app that calculates reference values and recommendations for different applications of Geotexan products.",
+          "URL": "https://geotexan.github.io/calculinn/",
+          "image": {
+            "alt": "logo_geotexan_negro.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/1f730156-0d22-455c-aa98-703999929546_logo_geotexan_negro.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-02-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Seville Metro",
+          "description": " First web for «el Metro de Sevilla» (Seville Subway/Tube).",
+          "URL": "https://github.com/pacoqueen/callao_chico",
+          "image": {
+            "alt": "callao_chico.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/e95f8478-ede8-4bfc-9b63-50b5859e8ab9_callao_chico.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2010-01-01",
+            "finishDate": "2012-01-01",
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Joomla",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Gnome-shell alarm",
+          "description": "Gnome shell extension to show current active alarms on panel.",
+          "URL": "https://extensions.gnome.org/extension/1192/alarm-clock/",
+          "image": {
+            "alt": "gnome-shell-alarm.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/785dbad2-e3e5-435e-90e0-27db561cd21d_gnome-shell-alarm.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-03-01",
+            "competences": [
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "MiARCADE",
+          "description": "Software configuration and support for arcade retro emulation machines.",
+          "URL": "https://miarcade.com/",
+          "image": {
+            "alt": "arcade-marquee.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/95ac651a-aa4f-4f33-810d-37a585ac89cc_arcade-marquee.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-02-01",
+            "competences": [
+              {
+                "name": "Raspberry",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "ArteConSentido",
+          "description": "Online shop for flamenco and ballet store and academy.",
+          "URL": "https://arteconsentido.tienda/",
+          "image": {
+            "alt": "logo_190x60.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/c3d66e24-e53d-4cc8-afd7-c6e980f8bb1b_logo_190x60.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-05-01",
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              },
+              {
+                "name": "WooCommerce",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "JOI",
+          "description": "Telegram bot to help in issues reporting to IT support.",
+          "URL": "https://github.com/Geotexan/joi",
+          "image": {
+            "alt": "icon.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/298dab49-7df6-47b5-a5ab-3b2d64354136_icon.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-08-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Battiato",
+          "description": "A simple Streamlit based Python app for extract data from hamster-time-tracker database and show it in several graphical ways. _Il tempo stesso._",
+          "URL": "https://gitlab.com/pacoqueen/battiato",
+          "image": {
+            "alt": "battiato.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/8e75626c-0069-4c71-9628-45d7379a5098_battiato.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-05-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "SQLite",
+                "type": "technology"
+              },
+              {
+                "name": "Pandas",
+                "type": "technology"
+              },
+              {
+                "name": "numpy",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "TIC.Portal (EKCIT) collaboration",
+          "description": "Fieldcase based on Murano to SAP migration leaded by me at Geotexan, S.A. along 2020-2022.\n\nEuropean Knowledge Center for Information Technology (Ed.). (2021, 9 febrero). Sistema de producción: ¿Cómo ayuda el software ERP a optimizar la fabricación de la empresa? 2022, TIC Portal.",
+          "URL": "https://www.ticportal.es/temas/enterprise-resource-planning/funciones-erp/sistema-produccion",
+          "image": {
+            "alt": "ekcit-logo-knowledge-center.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/49ca6093-4bd1-48bd-8ed3-21ec176d1a35_ekcit-logo-knowledge.jpg"
+          }
+        },
+        "type": "video",
+        "publishingDate": "2022-03-01",
+        "relatedCompetences": [
+          {
+            "name": "SAP",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "ERP"
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Arduino",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vim",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Raspberry",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Debian",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "EF SET Certificate™ 82/100 · C2: Proficient",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-03-01",
+        "institution": {
+          "name": "The EF Standard English Test (EF SET)",
+          "description": "",
+          "URL": "https://www.efset.org/cert/1kzMkq",
+          "image": {
+            "alt": "6ea6771479ceeade5f025fb16ff71264.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/60f5a18d-9e0f-4cf0-9646-8253ae6e0686_6ea6771479ceeade5f02.svg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Protect your business: Cybersecurity working remote",
+        "startDate": "2016-10-01",
+        "finishDate": "2016-10-01",
+        "institution": {
+          "name": "INCIBE - National Institute of Cybersecurity (Spain)",
+          "description": "ID del certificado: TJX YGU SQT",
+          "URL": "https://learndigital.withgoogle.com/link/1nur091p2ww",
+          "image": {
+            "alt": "incibe.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/bcd58742-1116-49a4-9c6e-4d97b94d6e97_incibe.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "IPv6",
+        "startDate": "2011-10-01",
+        "finishDate": "2011-10-01",
+        "institution": {
+          "name": "6deploy.eu, Consulintel",
+          "description": "",
+          "image": {
+            "alt": "20111027_IPv6_Certificate.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/0807d222-cf68-4a0b-b9fb-1443a1314be4_20111027_ipv6_certif.png"
+          }
+        }
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "C1b3rWall academy",
+        "startDate": "2020-06-01",
+        "institution": {
+          "name": "Policía Nacional, Universidad de Salamanca",
+          "description": "Cybersecurity\nBlockchain",
+          "URL": "https://c1b3rwallacademy.usal.es/",
+          "image": {
+            "alt": "c1b3rwall.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/ff42dec7-f341-491d-9ee9-6d6e4af0c58d_c1b3rwall.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Linux",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Agile and Lean",
+        "startDate": "2014-03-01",
+        "finishDate": "2014-04-01",
+        "institution": {
+          "name": "Miríada X - Telefónica Educación Digital S.L.U, Universidad Rey Juan Carlos",
+          "description": "",
+          "image": {
+            "alt": "diploma.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/e6a23ac5-6d0e-400e-b37f-d33496d24f90_diploma.png"
+          }
+        }
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Learn to develop mobile apps (3rd edition)",
+        "startDate": "2017-07-01",
+        "finishDate": "2017-09-01",
+        "institution": {
+          "name": "MiríadaX - Telefónica Educación Digital S.L.U",
+          "description": "",
+          "image": {
+            "alt": "20170920 diploma.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/c85093b9-2ef1-4fc9-92ef-13fdd12fc705_20170920-diploma.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "PhoneGap",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Learn WordPress (the easy way)",
+        "startDate": "2016-11-01",
+        "finishDate": "2016-12-01",
+        "institution": {
+          "name": "MiríadaX - Telefónica Educación Digital S.L.U",
+          "description": "",
+          "image": {
+            "alt": "20161215 diploma.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/4012e949-4d51-4ad8-8c6d-254242a7b7bd_20161215-diploma.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "WordPress",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "HTML5, CSS and Javascript for WebApps",
+        "startDate": "2014-10-01",
+        "finishDate": "2014-12-01",
+        "institution": {
+          "name": "MiríadaX - Telefónica Educación Digital S.L.U, Universidad Politécnica de Madrid",
+          "description": "",
+          "image": {
+            "alt": "diploma.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/19195fc3-795a-42e1-9c3c-3c19f210c23d_diploma.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Cloud Computing",
+        "startDate": "2015-06-01",
+        "finishDate": "2015-08-01",
+        "institution": {
+          "name": "MiríadaX - Telefónica Educación Digital S.L.U, Universidad Politécnica de Madrid",
+          "description": "",
+          "image": {
+            "alt": "certificado.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/4f5a124e-d633-443d-9180-1bb166652f4a_certificado.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Practical computer security",
+        "startDate": "2017-06-01",
+        "finishDate": "2017-07-01",
+        "institution": {
+          "name": "MiríadaX - Telefónica Educación Digital S.L.U, Universitat de València",
+          "description": "",
+          "image": {
+            "alt": "20170727 diploma.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/c02c9aa4-cf14-41d4-a7bb-25337d184094_20170727-diploma.png"
+          }
+        }
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "ITIL",
+        "startDate": "2011-05-01",
+        "finishDate": "2011-05-01",
+        "institution": {
+          "name": "Ministerio de Industria, Turismo y Comercio (Spain)",
+          "description": "",
+          "image": {
+            "alt": "Diploma_ITIL_Avanza2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/058a0af9-0cc2-4ffb-9104-f9f5978695bf_diploma_itil_avanza2.png"
+          }
+        }
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Cloud Computing",
+        "startDate": "2011-05-01",
+        "finishDate": "2011-05-01",
+        "institution": {
+          "name": "Ministerio de Industria, Turismo y Comercio (Spain)",
+          "description": "",
+          "image": {
+            "alt": "Diploma_Cloud_Avanza2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/d5899205-915f-44a5-aa7b-ce1aa8789e55_diploma_cloud_avanza.png"
+          }
+        }
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Java: Java2 platform",
+        "startDate": "2011-05-01",
+        "finishDate": "2011-05-01",
+        "institution": {
+          "name": "Ministerio de Industria, Turismo y Comercio (Spain)",
+          "description": "",
+          "image": {
+            "alt": "Diploma_Java_Avanza2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/8abf4f9c-add1-46dd-8071-cb8cc6fb8c7c_diploma_java_avanza2.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Technical Engineering in Computer Science",
+        "startDate": "1999-11-01",
+        "finishDate": "2004-07-01",
+        "institution": {
+          "name": "University of Huelva, Spain",
+          "description": "High grades on: Programming II [Prolog], Operating Systems [Plan9 from Bell Labs], IA: Expert Systems [CASPIAN], AI: Evolutive and Bioinspired Algorithms, AI: Heuristics and search algorithms.\n\nAdditional courses and events:\n- Installation and configuration of a GNU/Linux system. (2001)\n- Routers programming and configuration. (2002)\n- Libre Software onubense event I. (2003)\n- GNU/Linux advanced system administration (2005)",
+          "image": {
+            "alt": "20220330 certificado MECES Grado Ingeniero Técnico en Informática de Gestión.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/f3989340-d165-4a29-a850-2fcd9f0fa34e_20220330-certificado.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Apache",
+            "type": "technology"
+          },
+          {
+            "name": "SOAP",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Basic",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
+            "name": "CMake",
+            "type": "technology"
+          },
+          {
+            "name": "Unix",
+            "type": "technology"
+          },
+          {
+            "name": "Lamp",
+            "type": "technology"
+          },
+          {
+            "name": "Pascal",
+            "type": "technology"
+          },
+          {
+            "name": "PL/SQL",
+            "type": "technology"
+          },
+          {
+            "name": "UML",
+            "type": "technology"
+          },
+          {
+            "name": "Wireshark",
+            "type": "technology"
+          },
+          {
+            "name": "Cisco",
+            "type": "technology"
+          },
+          {
+            "name": "DNS",
+            "type": "technology"
+          },
+          {
+            "name": "FreeBSD",
+            "type": "technology"
+          },
+          {
+            "name": "Delphi",
+            "type": "technology"
+          },
+          {
+            "name": "VirtualBox",
+            "type": "technology"
+          },
+          {
+            "name": "Prolog",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/pqinn"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "Odoo",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
