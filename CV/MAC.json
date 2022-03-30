@@ -647,6 +647,12 @@
           "name": "Debian",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Taiga",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
