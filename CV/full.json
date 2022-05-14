@@ -110,7 +110,15 @@
             ],
             "competences": [
               {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
                 "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Navision",
                 "type": "technology"
               }
             ]
@@ -137,6 +145,30 @@
               }
             ],
             "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "VBA",
+                "type": "technology"
+              },
+              {
+                "name": "Delphi",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Access",
+                "type": "technology"
+              },
+              {
+                "name": "Cobol",
+                "type": "technology"
+              },
               {
                 "name": "Python",
                 "type": "technology"
@@ -187,6 +219,12 @@
               {
                 "description": "Software development for Security and Environment Department."
               }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Access",
+                "type": "technology"
+              }
             ]
           }
         ]
@@ -211,6 +249,10 @@
             ],
             "competences": [
               {
+                "name": "SAP HANA",
+                "type": "technology"
+              },
+              {
                 "name": "Python",
                 "type": "technology"
               },
@@ -224,6 +266,10 @@
               },
               {
                 "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
                 "type": "technology"
               },
               {
@@ -271,6 +317,10 @@
               },
               {
                 "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Avid Media Composer",
                 "type": "technology"
               }
             ]
@@ -891,7 +941,47 @@
             "type": "technology"
           },
           {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
             "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Apache",
+            "type": "technology"
+          },
+          {
+            "name": "SOAP",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Basic",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
+            "name": "CMake",
             "type": "technology"
           },
           {
@@ -903,7 +993,43 @@
             "type": "technology"
           },
           {
+            "name": "Pascal",
+            "type": "technology"
+          },
+          {
             "name": "PL/SQL",
+            "type": "technology"
+          },
+          {
+            "name": "UML",
+            "type": "technology"
+          },
+          {
+            "name": "Wireshark",
+            "type": "technology"
+          },
+          {
+            "name": "Cisco",
+            "type": "technology"
+          },
+          {
+            "name": "DNS",
+            "type": "technology"
+          },
+          {
+            "name": "FreeBSD",
+            "type": "technology"
+          },
+          {
+            "name": "Delphi",
+            "type": "technology"
+          },
+          {
+            "name": "VirtualBox",
+            "type": "technology"
+          },
+          {
+            "name": "Prolog",
             "type": "technology"
           }
         ]
@@ -931,6 +1057,16 @@
         },
         {
           "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "Odoo",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
           "type": "technology"
         }
       ]
