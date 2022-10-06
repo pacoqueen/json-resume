@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/dbb516be-e782-4d66-b215-9d9d35532733_cd2354b5-dd2d-4d01-a.png"
       },
       "location": {
-        "notes": "Huelva, Andalusia, Spain"
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Huelva"
       }
     },
     "relevantLinks": [
@@ -98,7 +100,7 @@
         },
         "roles": [
           {
-            "name": "CIO & CTO",
+            "name": "IT Coordinator",
             "startDate": "2012-04-01",
             "challenges": [
               {
@@ -548,18 +550,6 @@
       },
       {
         "skill": {
-          "name": "Django",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Linux",
           "type": "technology"
         }
@@ -572,13 +562,19 @@
       },
       {
         "skill": {
-          "name": "Arduino",
+          "name": "Django",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Vim",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Debian",
           "type": "technology"
         }
       },
@@ -596,7 +592,13 @@
       },
       {
         "skill": {
-          "name": "Debian",
+          "name": "Arduino",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
           "type": "technology"
         }
       },
@@ -919,6 +921,9 @@
           "name": "Python",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
       ]
     }
   }
