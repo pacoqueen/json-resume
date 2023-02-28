@@ -9,7 +9,7 @@
       "name": "Francisco José",
       "surnames": "Rodríguez Bogado",
       "title": "Expert FLOSS developer. Two decades of experience in GNU/Linux, GTK & Python.",
-      "description": "When I watched «War Games» on my childhood I changed karate for computers.\nLater, since I read «Being Digital» (N. Negroponte) circa 1999, I felt that technology can really change our lives in a more radical sense than any other previous discovery of the humankind.\nI'd like to be part of it. That's why I became a T-shaped developer.\nNowadays, with AI evolving so fast, philosophy, ethics and even political questions are emerging. \nThat's one more reason for what I am still a FLOSS enthusiastic after 20 years.",
+      "description": "",
       "avatar": {
         "alt": "Paco.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/dbb516be-e782-4d66-b215-9d9d35532733_cd2354b5-dd2d-4d01-a.png"
@@ -68,6 +68,8 @@
         "URL": "https://www.cibervoluntarios.org/",
         "authors": [
           {
+            "name": "",
+            "surnames": "",
             "title": "Author"
           }
         ],
@@ -536,10 +538,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -640,6 +644,7 @@
         "finishDate": "2022-03-01",
         "institution": {
           "name": "The EF Standard English Test (EF SET)",
+          "description": "",
           "URL": "https://www.efset.org/cert/1kzMkq",
           "image": {
             "alt": "6ea6771479ceeade5f025fb16ff71264.svg",
@@ -655,6 +660,7 @@
         "finishDate": "2017-09-01",
         "institution": {
           "name": "MiríadaX - Telefónica Educación Digital S.L.U",
+          "description": "",
           "image": {
             "alt": "20170920 diploma.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/45382598-4e90-404b-b823-5bf0c513e374_c85093b9-2ef1-4fc9-9.png"
@@ -687,6 +693,7 @@
         "finishDate": "2017-07-01",
         "institution": {
           "name": "MiríadaX - Telefónica Educación Digital S.L.U, Universitat de València",
+          "description": "",
           "image": {
             "alt": "20170727 diploma.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/592a7d43-fe7f-4cdf-b23a-0625160b9eba_c02c9aa4-cf14-41d4-a.png"
@@ -701,6 +708,7 @@
         "finishDate": "2016-12-01",
         "institution": {
           "name": "MiríadaX - Telefónica Educación Digital S.L.U",
+          "description": "",
           "image": {
             "alt": "20161215 diploma.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/23fd0704-e967-4885-a15a-f4f9f06b3ba9_4012e949-4d51-4ad8-8.png"
@@ -721,6 +729,7 @@
         "finishDate": "2016-10-01",
         "institution": {
           "name": "INCIBE - National Institute of Cybersecurity (Spain)",
+          "description": "",
           "URL": "https://learndigital.withgoogle.com/link/1nur091p2ww",
           "image": {
             "alt": "incibe.png",
@@ -736,6 +745,7 @@
         "finishDate": "2015-08-01",
         "institution": {
           "name": "MiríadaX - Telefónica Educación Digital S.L.U, Universidad Politécnica de Madrid",
+          "description": "",
           "image": {
             "alt": "certificado.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/e3ed7bb9-5a6e-46b1-b484-d90bb4dd2ae9_4f5a124e-d633-443d-9.png"
@@ -764,6 +774,7 @@
         "finishDate": "2014-12-01",
         "institution": {
           "name": "MiríadaX - Telefónica Educación Digital S.L.U, Universidad Politécnica de Madrid",
+          "description": "",
           "image": {
             "alt": "diploma.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/8eb1a17e-a90d-4583-a835-a66e3093b6a5_19195fc3-795a-42e1-9.png"
@@ -792,6 +803,7 @@
         "finishDate": "2014-04-01",
         "institution": {
           "name": "Miríada X - Telefónica Educación Digital S.L.U, Universidad Rey Juan Carlos",
+          "description": "",
           "image": {
             "alt": "diploma.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/bc2fc31b-5f08-4efe-aafd-a1a5281d7181_e6a23ac5-6d0e-400e-b.png"
@@ -806,6 +818,7 @@
         "finishDate": "2011-10-01",
         "institution": {
           "name": "6deploy.eu, Consulintel",
+          "description": "",
           "image": {
             "alt": "20111027_IPv6_Certificate.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/d882d0b9-d576-4316-8c90-35886027116c_0807d222-cf68-4a0b-b.png"
@@ -820,6 +833,7 @@
         "finishDate": "2011-05-01",
         "institution": {
           "name": "Ministerio de Industria, Turismo y Comercio (Spain)",
+          "description": "",
           "image": {
             "alt": "Diploma_ITIL_Avanza2.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/0a3b4b17-6cfc-4559-a253-54362951be7b_058a0af9-0cc2-4ffb-9.png"
@@ -834,6 +848,7 @@
         "finishDate": "2011-05-01",
         "institution": {
           "name": "Ministerio de Industria, Turismo y Comercio (Spain)",
+          "description": "",
           "image": {
             "alt": "Diploma_Java_Avanza2.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/6081b10d-2943-4f5b-9b2e-072dd98e28e8_8abf4f9c-add1-46dd-8.png"
@@ -854,6 +869,7 @@
         "finishDate": "2011-05-01",
         "institution": {
           "name": "Ministerio de Industria, Turismo y Comercio (Spain)",
+          "description": "",
           "image": {
             "alt": "Diploma_Cloud_Avanza2.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/890e3e45-8dc9-4c33-bea6-007d1af6bd6a_d5899205-915f-44a5-a.png"
@@ -926,6 +942,7 @@
       "preferredRoles": [
         "Backend Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
