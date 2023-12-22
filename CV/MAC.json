@@ -751,27 +751,6 @@
       },
       {
         "studyType": "selfTraining",
-        "degreeAchieved": false,
-        "name": "C1b3rWall academy",
-        "startDate": "2020-06-01",
-        "institution": {
-          "name": "Policía Nacional, Universidad de Salamanca",
-          "description": "Cybersecurity\nBlockchain",
-          "URL": "https://c1b3rwallacademy.usal.es/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/14/ec6f359b-93f6-40e4-aad2-047ae3eba26c_ff42dec7-f341-491d-9.png",
-            "alt": "c1b3rwall.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Linux",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "selfTraining",
         "degreeAchieved": true,
         "name": "Cloud Computing",
         "startDate": "2015-06-01",
