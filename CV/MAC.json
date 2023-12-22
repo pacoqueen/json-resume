@@ -555,6 +555,12 @@
       },
       {
         "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Debian",
           "type": "technology"
         }
@@ -567,13 +573,103 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Linux",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Odoo",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PL/SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postfix",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power Query",
           "type": "technology"
         }
       },
@@ -591,7 +687,25 @@
       },
       {
         "skill": {
+          "name": "SAP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SAP HANA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLite",
           "type": "technology"
         }
       },
@@ -610,6 +724,12 @@
       {
         "skill": {
           "name": "Vim",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
           "type": "technology"
         }
       }
@@ -967,6 +1087,16 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I am looking for a job that allow me to code, but not only code, and let me continue learning and growing as engineer.\nAfter years of meetings, budgeting and teams coordination I'd like a less manager-consultant ERP software related and more coding and challenging role. With a little bit of catch up, maybe IA involved?\nI have recently became a father for second time. So I am only considering full-remote work opportunities.",
     "goodPractices": "Documentation; licensing; GDPR; testing; debug; Agile; verbose",
     "projects": [
