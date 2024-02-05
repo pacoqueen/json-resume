@@ -101,11 +101,11 @@
         },
         "roles": [
           {
-            "name": "IT Coordinator",
+            "name": "IT Manager",
             "startDate": "2012-04-01",
             "challenges": [
               {
-                "description": "Custom ERP development, third party software implantation, hardware and\nsoftware support, MS-Windows and GNU/Linux system administration, voice and\ndata network design, implementation & support, RGPD, industrial computing and\nlab devices (Siemens, Instron, Textechno, Helfis, Lenzing), cybersecurity and\ndigital forensic analysis.\n\n- SAP migration director (Product Owner). [Seidor SAP, Boyum BEAS, Taiga, EKCIT/TIC.Portal, cloud DataRush]\n- Sage Murano support and development of integration software. [Python, SQL]\n- Development of geotextile web recomendator. [Brython, Python, JavaScript, HTML5, CSS3]\n- MS-Windows 2008R2-2019 and GNU/Linux Debian system administrator. [PowerShell, Bash, Netdata, OCS, GLPI, Shorewall, Docker, Borg]\n- DBMS PostgreSQL, MariaDB/MySQL y MS-SQLServer 2008R2 DBA."
+                "description": "Custom ERP development, third party software implantation, hardware and\nsoftware support, MS-Windows and GNU/Linux system administration, voice and\ndata network design, implementation & support, RGPD, industrial computing and\nlab devices (Siemens, Instron, Textechno, Helfis, Lenzing), cybersecurity and\ndigital forensic analysis.\n\n- Google to Microsoft 360 migration. Multi-company integration of IT infrastructure Geotexan-BontexGeo Group (Belgium). [Azure, PowerBI, Business Central, Odoo, Wavesoft, MFG/Pro, QAD]\n- SAP migration lead (Product Owner). [Seidor SAP, Boyum BEAS, Taiga, EKCIT/TIC.Portal, cloud DataRush]\n- Sage Murano support and development of integration software. [Python, SQL]\n- Development of geotextile web recomendator. [Brython, Python, JavaScript, HTML5, CSS3]\n- MS-Windows 2008R2-2019 and GNU/Linux Debian system administrator. [PowerShell, Bash, Netdata, OCS, GLPI, Shorewall, Docker, Borg]\n- DBMS PostgreSQL, MariaDB/MySQL y MS-SQLServer 2008R2 DBA."
               }
             ],
             "competences": [
