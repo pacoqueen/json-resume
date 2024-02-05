@@ -543,7 +543,7 @@
       {
         "name": "ES",
         "fullName": "Español",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -1036,12 +1036,6 @@
       ],
       "contactMails": [
         "bogado@qinn.es"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "626627741",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
