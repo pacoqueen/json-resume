@@ -877,7 +877,7 @@
         "finishDate": "2011-05-01",
         "linkedCompetences": [
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           }
         ]
@@ -1033,9 +1033,6 @@
           "URL": "https://github.com/pacoqueen",
           "type": "github"
         }
-      ],
-      "contactMails": [
-        "bogado@qinn.es"
       ]
     },
     "preferences": {
